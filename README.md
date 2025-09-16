@@ -7,6 +7,7 @@ O sistema gerencia informações de funcionários e executa operações como cá
 
 ## 📂 Estrutura do Projeto  
 
+```text
 src/
 └── main/java/
     ├── model/
@@ -17,7 +18,7 @@ src/
     ├── util/
     │   └── FormatUtils.java     # Utilitários para formatação de datas e valores
     └── Principal.java           # Classe principal que executa os requisitos
-
+```
 ---
 
 ## 🚀 Funcionalidades Implementadas  
