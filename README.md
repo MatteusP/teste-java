@@ -46,7 +46,7 @@ src/
 ## ▶️ Como Executar  
 
 1. Clonar ou baixar o projeto  
-git clone https://github.com/MatteusP/teste-java.git
+git clone https://github.com/MatteusP/teste-java.git 
 cd java-teste-pratico  
 
 2. Compilar com Maven  
